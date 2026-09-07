@@ -1,0 +1,87 @@
+{
+  "transactions": [
+    {
+      "id": "t1",
+      "type": "income",
+      "title": "Toshkent Coffee — abonement",
+      "category": "Savdo",
+      "amount": 18500000,
+      "date": "2026-09-07",
+      "account": "Asosiy hisob",
+      "status": "Kirim"
+    },
+    {
+      "id": "t2",
+      "type": "expense",
+      "title": "Ijara to‘lovi",
+      "category": "Ofis",
+      "amount": 7200000,
+      "date": "2026-09-06",
+      "account": "Asosiy hisob",
+      "status": "Chiqim"
+    },
+    {
+      "id": "t3",
+      "type": "income",
+      "title": "Navoiy Logistics",
+      "category": "Xizmatlar",
+      "amount": 12300000,
+      "date": "2026-09-05",
+      "account": "Asosiy hisob",
+      "status": "Kirim"
+    },
+    {
+      "id": "t4",
+      "type": "expense",
+      "title": "Xodimlar maoshi",
+      "category": "Ish haqi",
+      "amount": 15600000,
+      "date": "2026-09-04",
+      "account": "Ish haqi hisobi",
+      "status": "Chiqim"
+    },
+    {
+      "id": "t5",
+      "type": "expense",
+      "title": "Google Ads kampaniyasi",
+      "category": "Marketing",
+      "amount": 2450000,
+      "date": "2026-09-03",
+      "account": "Visa Business",
+      "status": "Chiqim"
+    },
+    {
+      "id": "t6",
+      "type": "income",
+      "title": "Digital Solutions LLC",
+      "category": "Savdo",
+      "amount": 8900000,
+      "date": "2026-09-02",
+      "account": "Asosiy hisob",
+      "status": "Kirim"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "INV-1042",
+      "customer": "Toshkent Coffee",
+      "amount": 18500000,
+      "due": "2026-09-12",
+      "state": "To‘lanmagan"
+    },
+    {
+      "id": "INV-1041",
+      "customer": "Navoiy Logistics",
+      "amount": 12300000,
+      "due": "2026-09-05",
+      "state": "To‘langan"
+    },
+    {
+      "id": "INV-1040",
+      "customer": "Digital Solutions LLC",
+      "amount": 8900000,
+      "due": "2026-08-30",
+      "state": "To‘langan"
+    }
+  ]
+}
