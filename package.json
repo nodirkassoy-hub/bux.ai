@@ -1,0 +1,7 @@
+{
+  "name": "bux-ai",
+  "version": "1.0.0",
+  "description": "BuxAI — O'zbekiston bizneslari uchun aqlli moliyaviy platforma",
+  "private": true,
+  "scripts": { "start": "node server.js", "dev": "node server.js" }
+}
