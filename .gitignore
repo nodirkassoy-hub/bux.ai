@@ -1,0 +1,9 @@
+# Runtime ma'lumotlar (JSON baza va yuklangan hujjatlar)
+data/
+# Bog‘liqliklar (loyiha zero-dependency, lekin himoya uchun)
+node_modules/
+# Jurnallar va vaqtinchalik fayllar
+*.log
+*.tmp-*
+.DS_Store
+.arena/
